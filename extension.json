@@ -1,0 +1,7 @@
+{
+  "name": "XML",
+  "version": "0.0.1",
+  "authors": ["Daria Agad <dariaagad@gmail.com>"],
+  "description": "Provides XML syntax highlighting in Zed (and language support is comming later)",
+  "repository": "https://github.com/dariaag/zed-xml-extension"
+}
